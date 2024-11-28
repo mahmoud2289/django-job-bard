@@ -9,7 +9,7 @@
     - gategory 
     - experience 
 
-    - apply job 
+    - apply job
     - post job
 Blog : 
     - title 
@@ -23,7 +23,8 @@ Blog :
     - comment
     - recent posts
 
-    
-contact home 
+
+contact 
+home 
 login 
     
